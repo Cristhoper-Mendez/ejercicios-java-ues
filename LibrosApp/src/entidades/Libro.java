@@ -48,8 +48,8 @@ public class Libro {
 
     public String toString() {
         String texto = "El libro "
-                + this.titulo + " con ISBN: " + this.isbn + " creado por el autor"
-                + " " + this.autor + "tiene " + this.numeroPaginas + " paginas";
+                + this.titulo + ", con ISBN: " + this.isbn + ", creado por el autor"
+                + " " + this.autor + " tiene " + this.numeroPaginas + " paginas.";
 
         return texto;
     }
