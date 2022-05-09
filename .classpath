@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ejercicio 3/src"/>
+	<classpathentry kind="src" path="Ejercicio6/src"/>
+	<classpathentry kind="src" path="Ejercicio7/src"/>
+	<classpathentry kind="src" path="LibrosApp/src"/>
+	<classpathentry kind="output" path="Ejercicio 3/bin"/>
+</classpath>
